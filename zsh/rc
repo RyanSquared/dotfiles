@@ -133,3 +133,5 @@ function prompt_grml_precmd () {
 # }}}
 
 test -f ~/.config/zsh/rc.post && source ~/.config/zsh/rc.post
+
+true
