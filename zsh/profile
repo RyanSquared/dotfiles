@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+source ~/.config/zsh/grml-etc-core/etc/zsh/zprofile
+source ~/.config/zsh/motd
+
+test -f ~/.config/zsh/profile.post && source ~/.config/zsh/profile.post
