@@ -1,3 +1,4 @@
 zsh/*.pre
 zsh/*.post
 vim/.netrwhist
+mutt/mailserver.conf
